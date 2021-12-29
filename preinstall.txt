@@ -1,0 +1,5 @@
+npm install @material-ui/core
+npm install @material-ui/lab
+npm install react-router-dom
+npm install axios
+npm install react-alce-carousel
